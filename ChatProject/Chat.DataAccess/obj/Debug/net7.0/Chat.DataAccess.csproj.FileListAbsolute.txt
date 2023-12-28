@@ -1,0 +1,15 @@
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\bin\Debug\net7.0\Chat.DataAccess.deps.json
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\bin\Debug\net7.0\Chat.DataAccess.dll
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\bin\Debug\net7.0\Chat.DataAccess.pdb
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.AssemblyInfo.cs
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.sourcelink.json
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.dll
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\refint\Chat.DataAccess.dll
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.pdb
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\ref\Chat.DataAccess.dll
+C:\Users\Nikita\Source\Repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Chat\ChatProject\FitnessClub.DataAccess\bin\Debug\net7.0\Chat.DataAccess.runtimeconfig.json
+C:\Users\Nikita\source\repos\Chat\ChatProject\FitnessClub.DataAccess\obj\Debug\net7.0\Chat.DataAccess.genruntimeconfig.cache
